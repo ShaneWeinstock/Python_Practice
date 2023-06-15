@@ -1,0 +1,5 @@
+somethin somethin something darksideone 
+two
+three
+four
+thsi is still a string and not  list
